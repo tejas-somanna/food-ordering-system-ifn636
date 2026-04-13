@@ -1,4 +1,5 @@
 // Backend server and MongoDB connection setup
+// Food CRUD API routes integrated
 // test commit fix
 const express = require('express');
 const dotenv = require('dotenv');
@@ -10,6 +11,7 @@ dotenv.config();
 
 
 const app = express();
+
 
 app.use(cors());
 app.use(express.json());
