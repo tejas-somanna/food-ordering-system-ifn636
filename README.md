@@ -21,3 +21,5 @@ This project is a full-stack web application developed as part of IFN636. It all
 
 ## Author
 Tejas Kothanur Somanna
+
+Last updated
