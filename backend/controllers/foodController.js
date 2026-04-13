@@ -1,3 +1,5 @@
+
+// Controller handles create, read, update, delete operations for food
 const Food = require("../models/Food");
 
 // Get all food items
