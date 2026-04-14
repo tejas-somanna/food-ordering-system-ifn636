@@ -1,3 +1,5 @@
+// Displays food items fetched from backend API
+
 import React, { useEffect, useState } from "react";
 
 function FoodList() {
